@@ -1,4 +1,4 @@
- <Mollie's-Prework-Study-Guide>
+ # Mollie's Prework Study Guide
 
 ## Description
 
